@@ -13,7 +13,7 @@ uploaded_file = st.file_uploader("Upload CSV", type="csv")
 if uploaded_file:
     df = pd.read_csv(uploaded_file)
 
-    # Calculate KPIs
+    # Calculating KPIs
     df["Revenue Growth (%)"] = df["Revenue"].pct_change() * 100
     df["User Growth (%)"] = df["Users"].pct_change() * 100
     df["Burn Rate"] = df["Expenses"]
