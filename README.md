@@ -6,7 +6,7 @@ A lightweight Python dashboard that helps startups visualize and track weekly gr
 
 ## 🚀 Live Demo
 
-👉 [Try the app on Streamlit Cloud](https://fahadzt-startup-kpi-tracker.streamlit.app)
+👉 [Try the app on Streamlit Cloud](https://startup-kpi-tracker-bdy4b5hyuyuu5jfrt8svad.streamlit.app)
 
 ---
 
